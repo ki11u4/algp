@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492196310 source:c:\users\joe dirt\desktop\cb\algo0\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	<vector>
+
